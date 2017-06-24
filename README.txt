@@ -24,7 +24,7 @@ Eg: C:\Program Files\Apache Software Foundation\Tomcat 9.0\bin
 
 - Start the server
 
--Application is started on : http://localhost:9090/webapp/
+-Application is started on : http://localhost:8080/webapp/
 
 
 
